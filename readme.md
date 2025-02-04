@@ -4,5 +4,5 @@
 
 Command for running game with g++
 ```shell
-g++ -std=c++11 life_game.cpp keyboard.cpp screen.cpp helper_functions.cpp -o life_game && ./life_game
+g++ -std=c++11 main.cpp keyboard.cpp screen.cpp helper_functions.cpp -o life_game && ./life_game
 ```
